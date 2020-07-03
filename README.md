@@ -1,2 +1,2 @@
 # RecurrentNeuralNetworks
-Part of the Deep Learning A-Z course
+Part of the Deep Learning course
